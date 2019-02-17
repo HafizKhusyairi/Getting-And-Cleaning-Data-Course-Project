@@ -9,11 +9,11 @@ Here are the list of 81 variables in the dataset:
 
 ### Identifiers
 
-`SubjectID`
+"SubjectID"
 
 Identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-`ActivityLabel`
+"ActivityLabel"
 
 Identifies the activity of the subject. It has 6 possible values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING.
 
