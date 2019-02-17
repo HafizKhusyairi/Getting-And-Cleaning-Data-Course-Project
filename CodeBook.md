@@ -66,7 +66,7 @@ Average and standard deviation time body angular velocity jerk in the X, Y and Z
 
 Average and standard deviation of magnitude of body and gravity acceleration, body acceleration jerk, body angular velocity, body angular velocity jerk :
 
-31] "timeBodyAccelerometerMag-mean"                 
+[31] "timeBodyAccelerometerMag-mean"                 
 [32] "timeBodyAccelerometerMag-std"                  
 [33] "timeGravityAccelerometerMag-mean"              
 [34] "timeGravityAccelerometerMag-std"               
@@ -94,9 +94,9 @@ Similar to above but in frequency-domain:
 [53] "frequencyBodyAccelerometerJerk-std-Xaxis"      
 [54] "frequencyBodyAccelerometerJerk-std-Yaxis"      
 [55] "frequencyBodyAccelerometerJerk-std-Zaxis"      
-[56] "frequencyBodyAccelerometerJerk-meanFreq-Xaxis"
-[57] "frequencyBodyAccelerometerJerk-meanFreq-Yaxis"
-[58] "frequencyBodyAccelerometerJerk-meanFreq-Zaxis"
+[56] "frequencyBodyAccelerometerJerk-meanFreq-Xaxis"		
+[57] "frequencyBodyAccelerometerJerk-meanFreq-Yaxis"		
+[58] "frequencyBodyAccelerometerJerk-meanFreq-Zaxis"		
 [59] "frequencyBodyGyroscope-mean-Xaxis"            
 [60] "frequencyBodyGyroscope-mean-Yaxis"             
 [61] "frequencyBodyGyroscope-mean-Zaxis"             
@@ -111,7 +111,7 @@ Similar to above but in frequency-domain:
 [70] "frequencyBodyAccelerometerMag-meanFreq"        
 [71] "frequencyBodyBodyAccelerometerJerkMag-mean"    
 [72] "frequencyBodyBodyAccelerometerJerkMag-std"     
-[73] "frequencyBodyBodyAccelerometerJerkMag-meanFreq"
+[73] "frequencyBodyBodyAccelerometerJerkMag-meanFreq"		
 [74] "frequencyBodyBodyGyroscopeMag-mean"            
 [75] "frequencyBodyBodyGyroscopeMag-std"             
 [76] "frequencyBodyBodyGyroscopeMag-meanFreq"        
