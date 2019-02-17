@@ -42,3 +42,4 @@ library(reshape2)
 numberofvars = length(names(mergeddata))-2
 datamelt = melt(mergeddata, id = c("SubjectID","ActivityLabel"), measure.vars = seq(1:numberofvars) )
 wide = dcast(datamelt,SubjectID + ActivityLabel ~ variable,mean)
+write.table(wide, "tidydata.txt", row.names = FALSE, quote = FALSE)
